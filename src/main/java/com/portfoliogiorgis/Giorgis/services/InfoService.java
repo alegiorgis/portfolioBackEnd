@@ -1,8 +1,8 @@
-package com.portfoliomatsuda.Matsuda.services;
+package com.portfoliogiorgis.Giorgis.services;
 
-import com.portfoliomatsuda.Matsuda.exception.UserNotFoundException;
-import com.portfoliomatsuda.Matsuda.models.Info;
-import com.portfoliomatsuda.Matsuda.repository.InfoRepo;
+import com.portfoliogiorgis.Giorgis.exception.UserNotFoundException;
+import com.portfoliogiorgis.Giorgis.models.Info;
+import com.portfoliogiorgis.Giorgis.repository.InfoRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

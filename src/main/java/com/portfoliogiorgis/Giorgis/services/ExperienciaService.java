@@ -1,7 +1,7 @@
-package com.portfoliomatsuda.Matsuda.services;
+package com.portfoliogiorgis.Giorgis.services;
 
-import com.portfoliomatsuda.Matsuda.models.Experiencia;
-import com.portfoliomatsuda.Matsuda.repository.ExperienciaRepo;
+import com.portfoliogiorgis.Giorgis.models.Experiencia;
+import com.portfoliogiorgis.Giorgis.repository.ExperienciaRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
